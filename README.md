@@ -7,8 +7,6 @@ Welcome to my portfolio! This repository showcases my web development skills and
 - [Demo](#demo)
 - [Technologies Used](#technologies-used)
 - [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
 - [License](#license)
 - [Contact](#contact)
 
@@ -27,4 +25,10 @@ A live demo of the portfolio can be found here: https://jatinsi16.github.io/port
 - Responsive design that works on various screen sizes.
 - Clean and modern UI.
 - Dynamic elements powered by JavaScript.
+  
+## contact
+INSTAGRAM :- https://instagram.com/jatin_singh16
+LINKEDIN:- https://www.linkedin.com/in/jatin-singh-a81b27211/ 
 
+## license 
+© 2024 Jatin Singh. All rights reserved.
